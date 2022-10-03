@@ -1,21 +1,21 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - 标签 - 我的全新 Hugo 网站</title>
-        <link>http://example.org/tags/</link>
+        <link>https://boooowen404.github.io/tags/</link>
         <description>Tags - 标签 - 我的全新 Hugo 网站</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="http://example.org/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://boooowen404.github.io/tags/" rel="self" type="application/rss+xml" /><item>
     <title>HTML</title>
-    <link>http://example.org/tags/html/</link>
+    <link>https://boooowen404.github.io/tags/html/</link>
     <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate><author>
         <name>作者</name>
-    </author><guid>http://example.org/tags/html/</guid>
+    </author><guid>https://boooowen404.github.io/tags/html/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Markdown</title>
-    <link>http://example.org/tags/markdown/</link>
+    <link>https://boooowen404.github.io/tags/markdown/</link>
     <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate><author>
         <name>作者</name>
-    </author><guid>http://example.org/tags/markdown/</guid>
+    </author><guid>https://boooowen404.github.io/tags/markdown/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>
